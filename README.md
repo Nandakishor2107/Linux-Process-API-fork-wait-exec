@@ -165,15 +165,9 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-![alt text](<Screenshot from 2024-03-11 18-21-12.png>)
-
-![alt text](<Screenshot from 2024-03-11 18-21-18.png>)
-
-
-
-![alt text](<Screenshot from 2024-03-11 18-21-24.png>)
-
-
+![alt text](image1.png)  
+![alt text](image2.png)  
+![alt text](image3.png)  
 
 
 
